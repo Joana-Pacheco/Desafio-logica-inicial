@@ -1,7 +1,7 @@
 # Classificador de Nível de Herói 🎮
 
 ## Descrição do Projeto
-Este projeto é um **Classificador de Nível de Herói** desenvolvido em **JavaScript**. 
+Este projeto é um **Classificador de Nível de Herói** desenvolvido em **JavaScript** como primeiro Desafio DIO.
 
 Ele recebe o **nome** e a **quantidade de experiência (XP)** de um herói e determina o **nível** correspondente, baseado em faixas pré-definidas de XP.  
 
